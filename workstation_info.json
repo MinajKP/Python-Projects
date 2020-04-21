@@ -1,0 +1,118 @@
+[
+    {
+      "workstation": "PC001",
+      "os": "ubuntu",
+      "vendor": "acer"
+    },
+    {
+      "workstation": "PC002",
+      "os": "ubuntu",
+      "vendor": "dell"
+
+    },
+     {
+      "workstation": "PC003",
+      "os": "windows",
+      "vendor": "lenovo"
+
+    },
+     {
+      "workstation": "PC004",
+      "os": "centos",
+      "vendor": "iball"
+
+    },
+     {
+      "workstation": "PC005",
+      "os": "red had linux",
+      "vendor": "hp"
+
+    },
+	{
+      "workstation": "PC006",
+      "os": "ubuntu",
+      "vendor": "ASUS"
+    },
+    {
+      "workstation": "PC007",
+      "os": "Linux Mint",
+      "vendor": "Acer"
+
+    },
+     {
+      "workstation": "PC008",
+      "os": "linux",
+      "vendor": "Lenovo"
+
+    },
+     {
+      "workstation": "PC009",
+      "os": "Apple iOS",
+      "vendor": "HP"
+
+    },
+     {
+      "workstation": "PC010",     
+      "os": "ubuntu",
+      "vendor": "Lenovo"
+
+    },
+	{
+      "workstation": "PC011",
+      "os": "ubuntu",
+      "vendor": "ASUS"
+    },
+    {
+      "workstation": "PC012",
+      "os": "Linux Mint",
+      "vendor": "Acer"
+
+    },
+     {
+      "workstation": "PC013",
+      "os": "linux",
+      "vendor": "Lenovo"
+
+    },
+     {
+      "workstation": "PC014",
+      "os": "Apple iOS",
+      "vendor": "HP"
+
+    },
+     {
+      "workstation": "PC015",     
+      "os": "ubuntu",
+      "vendor": "Lenovo"
+
+    },
+	{
+      "workstation": "PC016",
+      "os": "ubuntu",
+      "vendor": "ASUS"
+    },
+    {
+      "workstation": "PC017",
+      "os": "Linux Mint",
+      "vendor": "Acer"
+
+    },
+     {
+      "workstation": "PC018",
+      "os": "linux",
+      "vendor": "Lenovo"
+
+    },
+     {
+      "workstation": "PC019",
+      "os": "Apple iOS",
+      "vendor": "HP"
+
+    },
+     {
+      "workstation": "PC020",    
+      "os": "ubuntu",
+      "vendor": "Lenovo"
+
+    }
+  ]
