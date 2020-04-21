@@ -1,0 +1,20 @@
+user_id,user_name,department,permission,Event_id,workstation_id,year,month,day,timestamp(epoch),event_code,workstation_os,workstation_vendor
+P0001,abc,visualization,office machine access,e52622,PC001,2019,12,5,1575541662,1101,ubuntu,acer
+P0002,def,analytics,office machine access,e52623,PC002,2020,1,3,1578054462,1104,ubuntu,dell
+P0003,hij,QA,office machine access,e52624,PC003,2020,3,4,1583332062,4615,windows,lenovo
+P0004,klm,QA,office machine access,e52625,PC004,2020,2,2,1580655724,4634,centos,iball
+P0005,mno,system_admin,"office machine access, remote access",e52626,PC005,2019,12,15,1576402062,4650,red had linux,hp
+P0006,pqr,system_admin,"office machine access, remote access, secure room access, printer access",e52627,PC006,2018,9,24,1537791227,1055,ubuntu,ASUS
+P0007,stu,system_engineer,"office machine access, remote access, secure room access, printer access",e52628,PC007,2020,2,10,1581336827,5200,Linux Mint,Acer
+P0008,vwx,systems_support,"office machine access, secure room access",e52629,PC008,2020,1,29,1580300027,2113,linux,Lenovo
+P0014,yz,finance,office machine access,e52635,PC014,2018,12,21,1545413412,5124,Apple iOS,HP
+P0015,ab,druid_expert,"office machine access, remote access, secure room access, printer access",e52636,PC015,2019,5,15,1557941412,4739,ubuntu,Lenovo
+P0016,cd,data_engineering,"office machine access, remote access, secure room access, printer access",e50001,PC016,2020,3,10,1586942858,4578,ubuntu,ASUS
+P0017,ef,data_engineering,"office machine access, remote access, secure room access, printer access",e50002,PC017,2020,3,11,1586942658,1001,Linux Mint,Acer
+P0018,gh,hr,office machine access,e50003,PC018,2020,3,12,1586942788,5020,linux,Lenovo
+P0019,ij,hr,office machine access,e50004,PC019,2020,3,13,1586948958,4765,Apple iOS,HP
+P0009,mn,data_engineering,"office machine access, secure room access",e52630,PC009,2019,4,15,1555330427,4962,Apple iOS,HP
+P0010,op,data_scientist,"office machine access, secure room access",e52631,PC010,2020,3,30,1585570427,4008,ubuntu,Lenovo
+P0011,qr,data_scientist,office machine access,e52632,PC011,2019,12,15,1576409407,1102,ubuntu,ASUS
+P0012,st,data_engineering,"office machine access, remote access, secure room access, printer access",e52633,PC012,2020,1,13,1578954612,4794,Linux Mint,Acer
+P0013,uv,data_analyst,"office machine access, remote access, secure room access, printer access",e52634,PC013,2020,3,14,1584207012,4615,linux,Lenovo
